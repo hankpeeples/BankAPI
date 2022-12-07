@@ -1,0 +1,6 @@
+/* This file is used for rest.nvim (Lightweight Postman but in Neovim) */
+
+/* Get Accounts */
+GET http://localhost:3380/account
+Content-Type: application/json
+
