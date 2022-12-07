@@ -1,3 +1,3 @@
-module github.com/hankpeeples/GoFullAPI
+module github.com/hankpeeples/BankAPI
 
 go 1.19
